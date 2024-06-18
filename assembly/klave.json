@@ -1,0 +1,14 @@
+{
+    "version": "1",
+    "branches": [
+        "*"
+    ],
+    "applications": [
+        {
+            "name": "DataRoom",
+            "slug": "dataRoom",
+            "version": "0.0.1",
+            "rootDir": "/apps/data-room"
+        }
+    ]
+}
